@@ -28,8 +28,6 @@
 - [Benefits](#features)
 - [How It Compares](#features)
 - [License](#license)
-
-
 <br>
 
 ## Features
@@ -37,7 +35,6 @@
 - Next.js for blazing-fast, SEO-friendly websites with server-side rendering.
 - Webflow for stunning, intuitive UI design.
 - Enables seamless developer-designer collaboration.
-
 <br>
 
 ## Benefits
@@ -45,7 +42,6 @@
 - Next.js improves performance and SEO with server-side rendering.
 - Webflow empowers designers with visual UI creation.
 - Streamlines development, reduces time-to-market, ensures seamless user experience.
-
 <br>
 
 ## How It Compares
@@ -54,7 +50,6 @@
 - Eliminates complex build processes and deployment setups.
 - Fosters better developer-designer collaboration.
 - Empowers teams to deliver high-quality web applications efficiently.
-
 <br>
 
 ## License

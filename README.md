@@ -25,7 +25,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
-- [Why Next.js + Webflow?](#features)
+- [Benefits](#features)
 - [How It Compares](#features)
 - [License](#license)
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## Why Next.js + Webflow?
+## Benefits
 - Addresses modern web development challenges.
 - Next.js improves performance and SEO with server-side rendering.
 - Webflow empowers designers with visual UI creation.

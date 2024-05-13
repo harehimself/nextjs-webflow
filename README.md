@@ -8,28 +8,54 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/harehimself/hare_crewai/graphs/contributors">
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/harehimself/hare_nextjs-webflow" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/hare_crewai/network/members">
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/network/members">
     <img src="https://img.shields.io/github/forks/harehimself/hare_nextjs-webflow" alt="Forks"></a>
-  <a href="https://github.com/harehimself/hare_crewai/stargazers">
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/stargazers">
     <img src="https://img.shields.io/github/stars/harehimself/hare_nextjs-webflow" alt="Stars"></a>
-  <a href="https://github.com/harehimself/hare_crewai/issues">
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/issues">
     <img src="https://img.shields.io/github/issues/harehimself/hare_nextjs-webflow" alt="Issues"></a>
-  <a href="https://github.com/harehimself/hare_crewai/blob/main/LICENSE">
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/harehimself/hare_nextjs-webflow" alt="MIT License"></a>
 </p>
 
 <br><br>
 
 ## Table of Contents
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-  - [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Why Next.js + Webflow?](#features)
+- [How It Compares](#features)
+- [License](#license)
 
 
 <br>
 
+## Features
+- Powerful combination of Next.js and Webflow technologies.
+- Next.js for blazing-fast, SEO-friendly websites with server-side rendering.
+- Webflow for stunning, intuitive UI design.
+- Enables seamless developer-designer collaboration.
+
+<br>
+
+## Why Next.js + Webflow?
+- Addresses modern web development challenges.
+- Next.js improves performance and SEO with server-side rendering.
+- Webflow empowers designers with visual UI creation.
+- Streamlines development, reduces time-to-market, ensures seamless user experience.
+
+<br>
+
+## How It Compares
+- Advantages over traditional web development approaches.
+- Next.js enables faster load times and better SEO.
+- Eliminates complex build processes and deployment setups.
+- Fosters better developer-designer collaboration.
+- Empowers teams to deliver high-quality web applications efficiently.
+
+<br>
 
 ## License
-   This project is released under the MIT License.
+Released under the permissive MIT License. Allows free use, modification, and distribution.
